@@ -1,0 +1,8 @@
+ternak_id,jenis_ternak,tgl_lahir,berat_sekarang,status_kesehatan,kandang_id
+S001,holstein,2024-09-03,70.0,Sehat,24
+S002,holstein,2024-10-12,75.0,Sehat,24
+S003,holstein,2025-12-20,76.0,sakit,24
+S004,Hereford,2025-03-18,80.0,Sehat,25
+S005,Hinterwald,2025-05-14,65.0,Sakit,25
+S006,Limousin,2025-07-16,60.0,Sehat,25
+S007,Simmental,2025-06-17,72.0,Sehat,25
